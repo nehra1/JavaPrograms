@@ -5,7 +5,7 @@ public class Main extends Sub2{
         obj.print();
 
         System.out.println(obj.print(obj.a+ obj.b+ obj.c));
-        Sub2 obj1 = new Sub2();
+       // Sub2 obj1 = new Sub2();
         obj.print();
         System.out.println(obj.print(obj.a,obj.b));
         System.out.println(obj.print(obj.a));
